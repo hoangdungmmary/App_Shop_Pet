@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Bấm chuông",
+    "img": "assets/images/dog_chuong.PNG"
+  },
+
+{
+"title": "Bắt tay",
+"img": "assets/images/dog_battay.PNG"
+},
+  {
+    "title": "Ngồi",
+    "img":"assets/images/dog_ngoi.PNG"
+  },
+{
+"title": "Vệ sinh",
+"img": "assets/images/dog_vs.PNG"
+}
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Luyện tập cho cún bắt tay 1",
+    "time": "3 phút",
+    "img": "assets/images/dog_battay1.PNG",
+    "videoUrl": "assets/video/dog_battay1.mp4"
+  },
+  {
+    "title": "Luyện tập cho cún bắt tay 2",
+    "time": "2 phút",
+    "img": "assets/images/dog_battay2.PNG",
+    "videoUrl": "assets/video/dog_battay2.mp4"
+  }
+
+
+]
